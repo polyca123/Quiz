@@ -9,3 +9,5 @@ If not, then time will be removed from the timer.
 Once the timer ends the game should end.
 Once you've answer all the questions, there should be a final score screen showing how many answer you answred correctly, incorrectly, and the amount of time elapsed.
 There should be a form box to put your initials in to keep in the leaderboard.
+
+Link: https://polyca123.github.io/Quiz/
